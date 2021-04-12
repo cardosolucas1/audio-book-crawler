@@ -37,7 +37,7 @@ def create_audio_book_data_json():
 
 
 def export_list_as_json(lista):
-    with open('audiostest.json', 'w', encoding='utf-8') as f:
+    with open('audio_book_data.json', 'w', encoding='utf-8') as f:
         return json.dump(lista, f, ensure_ascii=False)
 
 

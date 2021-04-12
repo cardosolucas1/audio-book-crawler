@@ -30,9 +30,6 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
-wetransfer-a1cb7d/*
-wetransfer-a1cb7d/**
-wetransfer-a1cb7d/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
