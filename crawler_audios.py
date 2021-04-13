@@ -12,7 +12,7 @@ def capture_audios(path):
                 {
                     "nome": formattedLine,
                     "url": "",
-                    "slug": slugify(re.sub(r'\d+', '',formattedLine))
+                    "slug": slugify(re.sub(r'\d+', '', formattedLine))
                 }
             )
     return audios_names
@@ -22,12 +22,13 @@ def get_volumes_by_level(level):
     volumes = []
     for volume in range(1, 5):
         volumes.append(dict({
-            "nome":  'Volume {}'.format(volume),
+            "nome": 'Volume {}'.format(volume),
             "slug": 'volume-{}'.format(volume),
             "audios": capture_audios(
-            "wetransfer-a1cb7d/audios/{}ano/volume{}/volume-{}.txt"
-            .format(level, volume, volume)
-        )}))
+                "wetransfer-a1cb7d/audios/{}ano/volume{}/volume-{}.txt"
+                .format(level, volume, volume)
+            )
+        }))
     return volumes
 
 
