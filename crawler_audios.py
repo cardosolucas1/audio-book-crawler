@@ -1,4 +1,3 @@
-import pprint
 import json
 
 
@@ -24,7 +23,7 @@ def get_volumes_by_level(level):
     return volumes
 
 
-def create_audio_book_data_json():
+def create_audio_book_data():
     volumes_by_level = []
     for level in range(1, 6):
         volumes_by_level.append(dict({
@@ -37,8 +36,8 @@ def create_audio_book_data_json():
 
 
 def export_list_as_json(lista):
-    with open('audio_book_data.json', 'w', encoding='utf-8') as f:
+    with open('audio_book_data.json', 'w') as f:
         return json.dump(lista, f, ensure_ascii=False)
 
 
-export_list_as_json(create_audio_book_data_json())
+export_list_as_json(create_audio_book_data())
