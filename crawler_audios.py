@@ -3,18 +3,20 @@ from slugify import slugify
 import re
 
 
-def capture_audios(path):
+def capture_audios(path, vol, level):
     audios_names = []
+    faixa = 1
     with open(path) as file:
         for line in file:
             formattedLine = line.strip("\n")
             audios_names.append(
                 {
                     "nome": formattedLine,
-                    "url": "",
+                    "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/{}ano/volume{}/0{} Faixa {}.mp3".format(level, vol, faixa, faixa),
                     "slug": slugify(re.sub(r'\d+', '', formattedLine))
                 }
             )
+            faixa += 1
     return audios_names
 
 
@@ -26,7 +28,7 @@ def get_volumes_by_level(level):
             "slug": 'volume-{}'.format(volume),
             "audios": capture_audios(
                 "wetransfer-a1cb7d/audios/{}ano/volume{}/volume-{}.txt"
-                .format(level, volume, volume)
+                .format(level, volume, volume), volume, level
             )
         }))
     return volumes

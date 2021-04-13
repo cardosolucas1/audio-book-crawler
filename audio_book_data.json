@@ -8,31 +8,39 @@
         "nome": "Volume 1",
         "slug": "volume-1",
         "audios": [
-          { "nome": "1. Que prazer", "url": "", "slug": "que-prazer" },
+          {
+            "nome": "1. Que prazer",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/1ano/volume1/01 Faixa 1.mp3",
+            "slug": "que-prazer"
+          },
           {
             "nome": "2. Que prazer - PLAYBACK",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/1ano/volume1/02 Faixa 2.mp3",
             "slug": "que-prazer-playback"
           },
-          { "nome": "3. Quem sabe...", "url": "", "slug": "quem-sabe" },
+          {
+            "nome": "3. Quem sabe...",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/1ano/volume1/03 Faixa 3.mp3",
+            "slug": "quem-sabe"
+          },
           {
             "nome": "4. Hello – homem cantando",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/1ano/volume1/04 Faixa 4.mp3",
             "slug": "hello-homem-cantando"
           },
           {
             "nome": "5. Hello – mulher cantando",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/1ano/volume1/05 Faixa 5.mp3",
             "slug": "hello-mulher-cantando"
           },
           {
             "nome": "6. Hello – criança cantando",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/1ano/volume1/06 Faixa 6.mp3",
             "slug": "hello-crianca-cantando"
           },
           {
             "nome": "7. Um, dois, feijão com arroz",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/1ano/volume1/07 Faixa 7.mp3",
             "slug": "um-dois-feijao-com-arroz"
           }
         ]
@@ -43,42 +51,62 @@
         "audios": [
           {
             "nome": "1. Histórias dos ratinhos no zoológico",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/1ano/volume2/01 Faixa 1.mp3",
             "slug": "historias-dos-ratinhos-no-zoologico"
           },
-          { "nome": "2. Seis ratinhos", "url": "", "slug": "seis-ratinhos" },
-          { "nome": "3. O meu violão", "url": "", "slug": "o-meu-violao" },
-          { "nome": "4. Agudo e grave", "url": "", "slug": "agudo-e-grave" },
-          { "nome": "5. Bate, bate!", "url": "", "slug": "bate-bate" },
-          { "nome": "6. Escravos de jó", "url": "", "slug": "escravos-de-jo" },
+          {
+            "nome": "2. Seis ratinhos",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/1ano/volume2/02 Faixa 2.mp3",
+            "slug": "seis-ratinhos"
+          },
+          {
+            "nome": "3. O meu violão",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/1ano/volume2/03 Faixa 3.mp3",
+            "slug": "o-meu-violao"
+          },
+          {
+            "nome": "4. Agudo e grave",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/1ano/volume2/04 Faixa 4.mp3",
+            "slug": "agudo-e-grave"
+          },
+          {
+            "nome": "5. Bate, bate!",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/1ano/volume2/05 Faixa 5.mp3",
+            "slug": "bate-bate"
+          },
+          {
+            "nome": "6. Escravos de jó",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/1ano/volume2/06 Faixa 6.mp3",
+            "slug": "escravos-de-jo"
+          },
           {
             "nome": "7. Sons dos instrumentos: Piano",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/1ano/volume2/07 Faixa 7.mp3",
             "slug": "sons-dos-instrumentos-piano"
           },
           {
             "nome": "8. Sons dos instrumentos: Violão",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/1ano/volume2/08 Faixa 8.mp3",
             "slug": "sons-dos-instrumentos-violao"
           },
           {
             "nome": "9. Sons dos instrumentos: Ganza",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/1ano/volume2/09 Faixa 9.mp3",
             "slug": "sons-dos-instrumentos-ganza"
           },
           {
             "nome": "10. Sons dos instrumentos: Caxixi",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/1ano/volume2/010 Faixa 10.mp3",
             "slug": "sons-dos-instrumentos-caxixi"
           },
           {
             "nome": "11. Sons dos instrumentos: Reco-reco",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/1ano/volume2/011 Faixa 11.mp3",
             "slug": "sons-dos-instrumentos-reco-reco"
           },
           {
             "nome": "12. Sons dos instrumentos: Clava",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/1ano/volume2/012 Faixa 12.mp3",
             "slug": "sons-dos-instrumentos-clava"
           }
         ]
@@ -87,24 +115,56 @@
         "nome": "Volume 3",
         "slug": "volume-3",
         "audios": [
-          { "nome": "1. Sorveteiro", "url": "", "slug": "sorveteiro" },
-          { "nome": "2. Chocolate", "url": "", "slug": "chocolate" },
-          { "nome": "3. One, two, three", "url": "", "slug": "one-two-three" },
+          {
+            "nome": "1. Sorveteiro",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/1ano/volume3/01 Faixa 1.mp3",
+            "slug": "sorveteiro"
+          },
+          {
+            "nome": "2. Chocolate",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/1ano/volume3/02 Faixa 2.mp3",
+            "slug": "chocolate"
+          },
+          {
+            "nome": "3. One, two, three",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/1ano/volume3/03 Faixa 3.mp3",
+            "slug": "one-two-three"
+          },
           {
             "nome": "4. A galinha do vizinho",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/1ano/volume3/04 Faixa 4.mp3",
             "slug": "a-galinha-do-vizinho"
           },
-          { "nome": "5. Adoleta", "url": "", "slug": "adoleta" },
-          { "nome": "6. Giorni", "url": "", "slug": "giorni" },
+          {
+            "nome": "5. Adoleta",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/1ano/volume3/05 Faixa 5.mp3",
+            "slug": "adoleta"
+          },
+          {
+            "nome": "6. Giorni",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/1ano/volume3/06 Faixa 6.mp3",
+            "slug": "giorni"
+          },
           {
             "nome": "7. Passou um carrinho de picolé",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/1ano/volume3/07 Faixa 7.mp3",
             "slug": "passou-um-carrinho-de-picole"
           },
-          { "nome": "8. O sapo", "url": "", "slug": "o-sapo" },
-          { "nome": "9. Bambalalão", "url": "", "slug": "bambalalao" },
-          { "nome": "10. Na Bahia tem", "url": "", "slug": "na-bahia-tem" }
+          {
+            "nome": "8. O sapo",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/1ano/volume3/08 Faixa 8.mp3",
+            "slug": "o-sapo"
+          },
+          {
+            "nome": "9. Bambalalão",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/1ano/volume3/09 Faixa 9.mp3",
+            "slug": "bambalalao"
+          },
+          {
+            "nome": "10. Na Bahia tem",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/1ano/volume3/010 Faixa 10.mp3",
+            "slug": "na-bahia-tem"
+          }
         ]
       },
       {
@@ -113,31 +173,67 @@
         "audios": [
           {
             "nome": "1. O indiozinho tocou o seu tambor",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/1ano/volume4/01 Faixa 1.mp3",
             "slug": "o-indiozinho-tocou-o-seu-tambor"
           },
           {
             "nome": "2. The Earth is our mother",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/1ano/volume4/02 Faixa 2.mp3",
             "slug": "the-earth-is-our-mother"
           },
           {
             "nome": "3. Flauta transversal",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/1ano/volume4/03 Faixa 3.mp3",
             "slug": "flauta-transversal"
           },
-          { "nome": "4. Pandeiro", "url": "", "slug": "pandeiro" },
-          { "nome": "5. Cavaquinho", "url": "", "slug": "cavaquinho" },
-          { "nome": "6. Violão", "url": "", "slug": "violao" },
-          { "nome": "7. Viola caipira", "url": "", "slug": "viola-caipira" },
-          { "nome": "8. Violino", "url": "", "slug": "violino" },
-          { "nome": "9. Rabeca", "url": "", "slug": "rabeca" },
-          { "nome": "10. Berimbau", "url": "", "slug": "berimbau" },
-          { "nome": "11. Flauta doce", "url": "", "slug": "flauta-doce" },
-          { "nome": "12. Saxofone", "url": "", "slug": "saxofone" },
+          {
+            "nome": "4. Pandeiro",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/1ano/volume4/04 Faixa 4.mp3",
+            "slug": "pandeiro"
+          },
+          {
+            "nome": "5. Cavaquinho",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/1ano/volume4/05 Faixa 5.mp3",
+            "slug": "cavaquinho"
+          },
+          {
+            "nome": "6. Violão",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/1ano/volume4/06 Faixa 6.mp3",
+            "slug": "violao"
+          },
+          {
+            "nome": "7. Viola caipira",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/1ano/volume4/07 Faixa 7.mp3",
+            "slug": "viola-caipira"
+          },
+          {
+            "nome": "8. Violino",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/1ano/volume4/08 Faixa 8.mp3",
+            "slug": "violino"
+          },
+          {
+            "nome": "9. Rabeca",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/1ano/volume4/09 Faixa 9.mp3",
+            "slug": "rabeca"
+          },
+          {
+            "nome": "10. Berimbau",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/1ano/volume4/010 Faixa 10.mp3",
+            "slug": "berimbau"
+          },
+          {
+            "nome": "11. Flauta doce",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/1ano/volume4/011 Faixa 11.mp3",
+            "slug": "flauta-doce"
+          },
+          {
+            "nome": "12. Saxofone",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/1ano/volume4/012 Faixa 12.mp3",
+            "slug": "saxofone"
+          },
           {
             "nome": "13. Flauta transversal",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/1ano/volume4/013 Faixa 13.mp3",
             "slug": "flauta-transversal"
           }
         ]
@@ -153,32 +249,72 @@
         "nome": "Volume 1",
         "slug": "volume-1",
         "audios": [
-          { "nome": "1. Este é o tempo", "url": "", "slug": "este-e-o-tempo" },
-          { "nome": "2. Os relógios", "url": "", "slug": "os-relogios" },
-          { "nome": "3. Cuco", "url": "", "slug": "cuco" },
-          { "nome": "4. Viajar de trem", "url": "", "slug": "viajar-de-trem" },
+          {
+            "nome": "1. Este é o tempo",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/2ano/volume1/01 Faixa 1.mp3",
+            "slug": "este-e-o-tempo"
+          },
+          {
+            "nome": "2. Os relógios",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/2ano/volume1/02 Faixa 2.mp3",
+            "slug": "os-relogios"
+          },
+          {
+            "nome": "3. Cuco",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/2ano/volume1/03 Faixa 3.mp3",
+            "slug": "cuco"
+          },
+          {
+            "nome": "4. Viajar de trem",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/2ano/volume1/04 Faixa 4.mp3",
+            "slug": "viajar-de-trem"
+          },
           {
             "nome": "5. Reco-reco(madeira)",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/2ano/volume1/05 Faixa 5.mp3",
             "slug": "reco-reco-madeira"
           },
           {
             "nome": "6. Reco-reco(metal)",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/2ano/volume1/06 Faixa 6.mp3",
             "slug": "reco-reco-metal"
           },
-          { "nome": "7. Xilofone", "url": "", "slug": "xilofone" },
-          { "nome": "8. Metalofone", "url": "", "slug": "metalofone" }
+          {
+            "nome": "7. Xilofone",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/2ano/volume1/07 Faixa 7.mp3",
+            "slug": "xilofone"
+          },
+          {
+            "nome": "8. Metalofone",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/2ano/volume1/08 Faixa 8.mp3",
+            "slug": "metalofone"
+          }
         ]
       },
       {
         "nome": "Volume 2",
         "slug": "volume-2",
         "audios": [
-          { "nome": "1. Violino", "url": "", "slug": "violino" },
-          { "nome": "2. Violino", "url": "", "slug": "violino" },
-          { "nome": "3. Contrabaixo", "url": "", "slug": "contrabaixo" },
-          { "nome": "4. Contrabaixo", "url": "", "slug": "contrabaixo" }
+          {
+            "nome": "1. Violino",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/2ano/volume2/01 Faixa 1.mp3",
+            "slug": "violino"
+          },
+          {
+            "nome": "2. Violino",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/2ano/volume2/02 Faixa 2.mp3",
+            "slug": "violino"
+          },
+          {
+            "nome": "3. Contrabaixo",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/2ano/volume2/03 Faixa 3.mp3",
+            "slug": "contrabaixo"
+          },
+          {
+            "nome": "4. Contrabaixo",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/2ano/volume2/04 Faixa 4.mp3",
+            "slug": "contrabaixo"
+          }
         ]
       },
       {
@@ -187,51 +323,79 @@
         "audios": [
           {
             "nome": "1. Cai, cai balão (Xaxado)",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/2ano/volume3/01 Faixa 1.mp3",
             "slug": "cai-cai-balao-xaxado"
           },
           {
             "nome": "2. Cai, cai balão (Xote)",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/2ano/volume3/02 Faixa 2.mp3",
             "slug": "cai-cai-balao-xote"
           },
           {
             "nome": "3. Cai, cai balão (Baião)",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/2ano/volume3/03 Faixa 3.mp3",
             "slug": "cai-cai-balao-baiao"
           },
-          { "nome": "4. Ritmo do Baião", "url": "", "slug": "ritmo-do-baiao" },
-          { "nome": "5. Acordeão", "url": "", "slug": "acordeao" },
-          { "nome": "6. Triangulo", "url": "", "slug": "triangulo" },
-          { "nome": "7. Zabumba", "url": "", "slug": "zabumba" },
-          { "nome": "8. Baião Bailão", "url": "", "slug": "baiao-bailao" },
+          {
+            "nome": "4. Ritmo do Baião",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/2ano/volume3/04 Faixa 4.mp3",
+            "slug": "ritmo-do-baiao"
+          },
+          {
+            "nome": "5. Acordeão",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/2ano/volume3/05 Faixa 5.mp3",
+            "slug": "acordeao"
+          },
+          {
+            "nome": "6. Triangulo",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/2ano/volume3/06 Faixa 6.mp3",
+            "slug": "triangulo"
+          },
+          {
+            "nome": "7. Zabumba",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/2ano/volume3/07 Faixa 7.mp3",
+            "slug": "zabumba"
+          },
+          {
+            "nome": "8. Baião Bailão",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/2ano/volume3/08 Faixa 8.mp3",
+            "slug": "baiao-bailao"
+          },
           {
             "nome": "9. Quem quiser que me acompanhe",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/2ano/volume3/09 Faixa 9.mp3",
             "slug": "quem-quiser-que-me-acompanhe"
           },
           {
             "nome": "10. Pop goes the wasel",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/2ano/volume3/010 Faixa 10.mp3",
             "slug": "pop-goes-the-wasel"
           },
           {
             "nome": "11. Eco rítmico Sessão 1",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/2ano/volume3/011 Faixa 11.mp3",
             "slug": "eco-ritmico-sessao"
           },
           {
             "nome": "12. Eco rítmico Sessão 2",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/2ano/volume3/012 Faixa 12.mp3",
             "slug": "eco-ritmico-sessao"
           },
           {
             "nome": "13. Eco rítmico Sessão 3",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/2ano/volume3/013 Faixa 13.mp3",
             "slug": "eco-ritmico-sessao"
           },
-          { "nome": "14. Xique Xique", "url": "", "slug": "xique-xique" },
-          { "nome": "15. Ganzá", "url": "", "slug": "ganza" }
+          {
+            "nome": "14. Xique Xique",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/2ano/volume3/014 Faixa 14.mp3",
+            "slug": "xique-xique"
+          },
+          {
+            "nome": "15. Ganzá",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/2ano/volume3/015 Faixa 15.mp3",
+            "slug": "ganza"
+          }
         ]
       },
       {
@@ -240,30 +404,74 @@
         "audios": [
           {
             "nome": "1. Passa, passa, gavião",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/2ano/volume4/01 Faixa 1.mp3",
             "slug": "passa-passa-gaviao"
           },
-          { "nome": "2. Indo eu", "url": "", "slug": "indo-eu" },
+          {
+            "nome": "2. Indo eu",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/2ano/volume4/02 Faixa 2.mp3",
+            "slug": "indo-eu"
+          },
           {
             "nome": "3. Pout-Pourri de cantigas de roda",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/2ano/volume4/03 Faixa 3.mp3",
             "slug": "pout-pourri-de-cantigas-de-roda"
           },
           {
             "nome": "4. La bela lavanderina",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/2ano/volume4/04 Faixa 4.mp3",
             "slug": "la-bela-lavanderina"
           },
-          { "nome": "5. Piano", "url": "", "slug": "piano" },
-          { "nome": "6. viola caipira", "url": "", "slug": "viola-caipira" },
-          { "nome": "7. Violoncelo", "url": "", "slug": "violoncelo" },
-          { "nome": "8. Viola", "url": "", "slug": "viola" },
-          { "nome": "9. Clarineta", "url": "", "slug": "clarineta" },
-          { "nome": "10. Violão", "url": "", "slug": "violao" },
-          { "nome": "11. Reco-reco", "url": "", "slug": "reco-reco" },
-          { "nome": "12. Cuíca", "url": "", "slug": "cuica" },
-          { "nome": "13. Canidé", "url": "", "slug": "canide" },
-          { "nome": "14. Obwisana", "url": "", "slug": "obwisana" }
+          {
+            "nome": "5. Piano",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/2ano/volume4/05 Faixa 5.mp3",
+            "slug": "piano"
+          },
+          {
+            "nome": "6. viola caipira",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/2ano/volume4/06 Faixa 6.mp3",
+            "slug": "viola-caipira"
+          },
+          {
+            "nome": "7. Violoncelo",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/2ano/volume4/07 Faixa 7.mp3",
+            "slug": "violoncelo"
+          },
+          {
+            "nome": "8. Viola",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/2ano/volume4/08 Faixa 8.mp3",
+            "slug": "viola"
+          },
+          {
+            "nome": "9. Clarineta",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/2ano/volume4/09 Faixa 9.mp3",
+            "slug": "clarineta"
+          },
+          {
+            "nome": "10. Violão",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/2ano/volume4/010 Faixa 10.mp3",
+            "slug": "violao"
+          },
+          {
+            "nome": "11. Reco-reco",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/2ano/volume4/011 Faixa 11.mp3",
+            "slug": "reco-reco"
+          },
+          {
+            "nome": "12. Cuíca",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/2ano/volume4/012 Faixa 12.mp3",
+            "slug": "cuica"
+          },
+          {
+            "nome": "13. Canidé",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/2ano/volume4/013 Faixa 13.mp3",
+            "slug": "canide"
+          },
+          {
+            "nome": "14. Obwisana",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/2ano/volume4/014 Faixa 14.mp3",
+            "slug": "obwisana"
+          }
         ]
       }
     ]
@@ -277,94 +485,130 @@
         "nome": "Volume 1",
         "slug": "volume-1",
         "audios": [
-          { "nome": "1. Aula de música", "url": "", "slug": "aula-de-musica" },
-          { "nome": "2. Lenda do Uakti", "url": "", "slug": "lenda-do-uakti" },
-          { "nome": "3. Violino", "url": "", "slug": "violino" },
-          { "nome": "4. Piano", "url": "", "slug": "piano" },
-          { "nome": "5. Xilofone", "url": "", "slug": "xilofone" },
+          {
+            "nome": "1. Aula de música",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/3ano/volume1/01 Faixa 1.mp3",
+            "slug": "aula-de-musica"
+          },
+          {
+            "nome": "2. Lenda do Uakti",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/3ano/volume1/02 Faixa 2.mp3",
+            "slug": "lenda-do-uakti"
+          },
+          {
+            "nome": "3. Violino",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/3ano/volume1/03 Faixa 3.mp3",
+            "slug": "violino"
+          },
+          {
+            "nome": "4. Piano",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/3ano/volume1/04 Faixa 4.mp3",
+            "slug": "piano"
+          },
+          {
+            "nome": "5. Xilofone",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/3ano/volume1/05 Faixa 5.mp3",
+            "slug": "xilofone"
+          },
           {
             "nome": "6. O Guarda Apitou",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/3ano/volume1/06 Faixa 6.mp3",
             "slug": "o-guarda-apitou"
           },
           {
             "nome": "7. Carnaval de Arequipa",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/3ano/volume1/07 Faixa 7.mp3",
             "slug": "carnaval-de-arequipa"
           },
           {
             "nome": "8. A Flauta do Belarmino",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/3ano/volume1/08 Faixa 8.mp3",
             "slug": "a-flauta-do-belarmino"
           },
-          { "nome": "9. Greensleeves", "url": "", "slug": "greensleeves" },
+          {
+            "nome": "9. Greensleeves",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/3ano/volume1/09 Faixa 9.mp3",
+            "slug": "greensleeves"
+          },
           {
             "nome": "10. Pout-Pourri Folclore",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/3ano/volume1/010 Faixa 10.mp3",
             "slug": "pout-pourri-folclore"
           },
           {
             "nome": "11. Brincando com balões",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/3ano/volume1/011 Faixa 11.mp3",
             "slug": "brincando-com-baloes"
           },
-          { "nome": "12. Tocando", "url": "", "slug": "tocando" }
+          {
+            "nome": "12. Tocando",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/3ano/volume1/012 Faixa 12.mp3",
+            "slug": "tocando"
+          }
         ]
       },
       {
         "nome": "Volume 2",
         "slug": "volume-2",
         "audios": [
-          { "nome": "1. Lenda do Ukati", "url": "", "slug": "lenda-do-ukati" },
+          {
+            "nome": "1. Lenda do Ukati",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/3ano/volume2/01 Faixa 1.mp3",
+            "slug": "lenda-do-ukati"
+          },
           {
             "nome": "2. Carnaval de Arequipa",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/3ano/volume2/02 Faixa 2.mp3",
             "slug": "carnaval-de-arequipa"
           },
           {
             "nome": "3. A flauta de belarmino",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/3ano/volume2/03 Faixa 3.mp3",
             "slug": "a-flauta-de-belarmino"
           },
-          { "nome": "4. Greensleeves", "url": "", "slug": "greensleeves" },
+          {
+            "nome": "4. Greensleeves",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/3ano/volume2/04 Faixa 4.mp3",
+            "slug": "greensleeves"
+          },
           {
             "nome": "5. Pout Pouri Folclore",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/3ano/volume2/05 Faixa 5.mp3",
             "slug": "pout-pouri-folclore"
           },
           {
             "nome": "6. Brincando com balões",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/3ano/volume2/06 Faixa 6.mp3",
             "slug": "brincando-com-baloes"
           },
           {
             "nome": "7. Descobrindo a grafia",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/3ano/volume2/07 Faixa 7.mp3",
             "slug": "descobrindo-a-grafia"
           },
           {
             "nome": "8. O guarda apitou",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/3ano/volume2/08 Faixa 8.mp3",
             "slug": "o-guarda-apitou"
           },
           {
             "nome": "9. Violino Glissando",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/3ano/volume2/09 Faixa 9.mp3",
             "slug": "violino-glissando"
           },
           {
             "nome": "10. Piano Glissando",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/3ano/volume2/010 Faixa 10.mp3",
             "slug": "piano-glissando"
           },
           {
             "nome": "11. Xilofone Glissando",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/3ano/volume2/011 Faixa 11.mp3",
             "slug": "xilofone-glissando"
           },
           {
             "nome": "12. Subindo e descendo",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/3ano/volume2/012 Faixa 12.mp3",
             "slug": "subindo-e-descendo"
           }
         ]
@@ -375,47 +619,67 @@
         "audios": [
           {
             "nome": "1. História Viola no saco",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/3ano/volume3/01 Faixa 1.mp3",
             "slug": "historia-viola-no-saco"
           },
-          { "nome": "2. Sapo cururu", "url": "", "slug": "sapo-cururu" },
-          { "nome": "3. Viola Caipira", "url": "", "slug": "viola-caipira" },
-          { "nome": "4. Rabo do tatu", "url": "", "slug": "rabo-do-tatu" },
-          { "nome": "5. Unidunitê", "url": "", "slug": "unidunite" },
-          { "nome": "6. Já sei tocar", "url": "", "slug": "ja-sei-tocar" },
+          {
+            "nome": "2. Sapo cururu",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/3ano/volume3/02 Faixa 2.mp3",
+            "slug": "sapo-cururu"
+          },
+          {
+            "nome": "3. Viola Caipira",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/3ano/volume3/03 Faixa 3.mp3",
+            "slug": "viola-caipira"
+          },
+          {
+            "nome": "4. Rabo do tatu",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/3ano/volume3/04 Faixa 4.mp3",
+            "slug": "rabo-do-tatu"
+          },
+          {
+            "nome": "5. Unidunitê",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/3ano/volume3/05 Faixa 5.mp3",
+            "slug": "unidunite"
+          },
+          {
+            "nome": "6. Já sei tocar",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/3ano/volume3/06 Faixa 6.mp3",
+            "slug": "ja-sei-tocar"
+          },
           {
             "nome": "7. Já sei tocar (Playback)",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/3ano/volume3/07 Faixa 7.mp3",
             "slug": "ja-sei-tocar-playback"
           },
           {
             "nome": "8. Flauta doce sopranino",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/3ano/volume3/08 Faixa 8.mp3",
             "slug": "flauta-doce-sopranino"
           },
           {
             "nome": "9. Flauta doce soprano",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/3ano/volume3/09 Faixa 9.mp3",
             "slug": "flauta-doce-soprano"
           },
           {
             "nome": "10. Flauta doce contralto",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/3ano/volume3/010 Faixa 10.mp3",
             "slug": "flauta-doce-contralto"
           },
           {
             "nome": "11. Flauta doce tenor",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/3ano/volume3/011 Faixa 11.mp3",
             "slug": "flauta-doce-tenor"
           },
           {
             "nome": "12. Flauta doce baixo",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/3ano/volume3/012 Faixa 12.mp3",
             "slug": "flauta-doce-baixo"
           },
           {
             "nome": "13. Quinteto de flautas",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/3ano/volume3/013 Faixa 13.mp3",
             "slug": "quinteto-de-flautas"
           }
         ]
@@ -426,61 +690,77 @@
         "audios": [
           {
             "nome": "1. Minuetos (Violino)",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/3ano/volume4/01 Faixa 1.mp3",
             "slug": "minuetos-violino"
           },
           {
             "nome": "2. Minuetos (Cravo)",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/3ano/volume4/02 Faixa 2.mp3",
             "slug": "minuetos-cravo"
           },
           {
             "nome": "3. Minuetos (Piano)",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/3ano/volume4/03 Faixa 3.mp3",
             "slug": "minuetos-piano"
           },
           {
             "nome": "4. Minha flauta mágica",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/3ano/volume4/04 Faixa 4.mp3",
             "slug": "minha-flauta-magica"
           },
           {
             "nome": "5. Minha flauta mágica (Playback)",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/3ano/volume4/05 Faixa 5.mp3",
             "slug": "minha-flauta-magica-playback"
           },
           {
             "nome": "6. A casinha da vovó",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/3ano/volume4/06 Faixa 6.mp3",
             "slug": "a-casinha-da-vovo"
           },
           {
             "nome": "7. A casinha da vovó (Playback)",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/3ano/volume4/07 Faixa 7.mp3",
             "slug": "a-casinha-da-vovo-playback"
           },
-          { "nome": "8. Lá, si e dó", "url": "", "slug": "la-si-e-do" },
+          {
+            "nome": "8. Lá, si e dó",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/3ano/volume4/08 Faixa 8.mp3",
+            "slug": "la-si-e-do"
+          },
           {
             "nome": "9. Lá, si e dó (Playback)",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/3ano/volume4/09 Faixa 9.mp3",
             "slug": "la-si-e-do-playback"
           },
           {
             "nome": "10. A pauta musical",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/3ano/volume4/010 Faixa 10.mp3",
             "slug": "a-pauta-musical"
           },
-          { "nome": "11. Agudo e grave", "url": "", "slug": "agudo-e-grave" },
-          { "nome": "12. Notas musicais", "url": "", "slug": "notas-musicais" },
+          {
+            "nome": "11. Agudo e grave",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/3ano/volume4/011 Faixa 11.mp3",
+            "slug": "agudo-e-grave"
+          },
+          {
+            "nome": "12. Notas musicais",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/3ano/volume4/012 Faixa 12.mp3",
+            "slug": "notas-musicais"
+          },
           {
             "nome": "13. Minha canção (fonograma)",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/3ano/volume4/013 Faixa 13.mp3",
             "slug": "minha-cancao-fonograma"
           },
-          { "nome": "14. Tocando", "url": "", "slug": "tocando" },
+          {
+            "nome": "14. Tocando",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/3ano/volume4/014 Faixa 14.mp3",
+            "slug": "tocando"
+          },
           {
             "nome": "15. Tocando (Playback)",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/3ano/volume4/015 Faixa 15.mp3",
             "slug": "tocando-playback"
           }
         ]
@@ -498,57 +778,85 @@
         "audios": [
           {
             "nome": "1. Marchinha do recomeço",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/4ano/volume1/01 Faixa 1.mp3",
             "slug": "marchinha-do-recomeco"
           },
-          { "nome": "2. Trompete", "url": "", "slug": "trompete" },
+          {
+            "nome": "2. Trompete",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/4ano/volume1/02 Faixa 2.mp3",
+            "slug": "trompete"
+          },
           {
             "nome": "3. Descobrindo o compasso",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/4ano/volume1/03 Faixa 3.mp3",
             "slug": "descobrindo-o-compasso"
           },
-          { "nome": "4. O pulo da bola", "url": "", "slug": "o-pulo-da-bola" }
+          {
+            "nome": "4. O pulo da bola",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/4ano/volume1/04 Faixa 4.mp3",
+            "slug": "o-pulo-da-bola"
+          }
         ]
       },
       {
         "nome": "Volume 2",
         "slug": "volume-2",
         "audios": [
-          { "nome": "1. A banda", "url": "", "slug": "a-banda" },
+          {
+            "nome": "1. A banda",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/4ano/volume2/01 Faixa 1.mp3",
+            "slug": "a-banda"
+          },
           {
             "nome": "2. Fanfarra para o homem comum",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/4ano/volume2/02 Faixa 2.mp3",
             "slug": "fanfarra-para-o-homem-comum"
           },
-          { "nome": "3. Frère Jacques", "url": "", "slug": "frere-jacques" },
+          {
+            "nome": "3. Frère Jacques",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/4ano/volume2/03 Faixa 3.mp3",
+            "slug": "frere-jacques"
+          },
           {
             "nome": "4. Frère Jacques - Instrumental",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/4ano/volume2/04 Faixa 4.mp3",
             "slug": "frere-jacques-instrumental"
           },
           {
             "nome": "5. Pra lá e pra cá",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/4ano/volume2/05 Faixa 5.mp3",
             "slug": "pra-la-e-pra-ca"
           },
           {
             "nome": "6. Pra lá e pra cá",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/4ano/volume2/06 Faixa 6.mp3",
             "slug": "pra-la-e-pra-ca"
           },
-          { "nome": "7. Trombone", "url": "", "slug": "trombone" },
+          {
+            "nome": "7. Trombone",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/4ano/volume2/07 Faixa 7.mp3",
+            "slug": "trombone"
+          },
           {
             "nome": "8. Bolero (ostinato)",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/4ano/volume2/08 Faixa 8.mp3",
             "slug": "bolero-ostinato"
           },
-          { "nome": "9. Tuba", "url": "", "slug": "tuba" },
+          {
+            "nome": "9. Tuba",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/4ano/volume2/09 Faixa 9.mp3",
+            "slug": "tuba"
+          },
           {
             "nome": "10. Tem gato na tuba",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/4ano/volume2/010 Faixa 10.mp3",
             "slug": "tem-gato-na-tuba"
           },
-          { "nome": "11. A banda", "url": "", "slug": "a-banda" }
+          {
+            "nome": "11. A banda",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/4ano/volume2/011 Faixa 11.mp3",
+            "slug": "a-banda"
+          }
         ]
       },
       {
@@ -557,48 +865,80 @@
         "audios": [
           {
             "nome": "1. É preciso saber viver",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/4ano/volume3/01 Faixa 1.mp3",
             "slug": "e-preciso-saber-viver"
           },
-          { "nome": "2. Com meu corpo", "url": "", "slug": "com-meu-corpo" },
-          { "nome": "3. Saladinha", "url": "", "slug": "saladinha" },
-          { "nome": "4. Improvisando", "url": "", "slug": "improvisando" },
-          { "nome": "5. América do Sul", "url": "", "slug": "america-do-sul" },
-          { "nome": "6. Agogô de metal", "url": "", "slug": "agogo-de-metal" },
+          {
+            "nome": "2. Com meu corpo",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/4ano/volume3/02 Faixa 2.mp3",
+            "slug": "com-meu-corpo"
+          },
+          {
+            "nome": "3. Saladinha",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/4ano/volume3/03 Faixa 3.mp3",
+            "slug": "saladinha"
+          },
+          {
+            "nome": "4. Improvisando",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/4ano/volume3/04 Faixa 4.mp3",
+            "slug": "improvisando"
+          },
+          {
+            "nome": "5. América do Sul",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/4ano/volume3/05 Faixa 5.mp3",
+            "slug": "america-do-sul"
+          },
+          {
+            "nome": "6. Agogô de metal",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/4ano/volume3/06 Faixa 6.mp3",
+            "slug": "agogo-de-metal"
+          },
           {
             "nome": "7. Agogô de madeira",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/4ano/volume3/07 Faixa 7.mp3",
             "slug": "agogo-de-madeira"
           },
           {
             "nome": "8. Sinfonia de colheres",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/4ano/volume3/08 Faixa 8.mp3",
             "slug": "sinfonia-de-colheres"
           },
           {
             "nome": "9. O tambor e o pandeiro",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/4ano/volume3/09 Faixa 9.mp3",
             "slug": "o-tambor-e-o-pandeiro"
           },
-          { "nome": "10. Pandeiro", "url": "", "slug": "pandeiro" }
+          {
+            "nome": "10. Pandeiro",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/4ano/volume3/010 Faixa 10.mp3",
+            "slug": "pandeiro"
+          }
         ]
       },
       {
         "nome": "Volume 4",
         "slug": "volume-4",
         "audios": [
-          { "nome": "1. Celesta", "url": "", "slug": "celesta" },
+          {
+            "nome": "1. Celesta",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/4ano/volume4/01 Faixa 1.mp3",
+            "slug": "celesta"
+          },
           {
             "nome": "2. Hey Yo ou Pescadores Chineses",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/4ano/volume4/02 Faixa 2.mp3",
             "slug": "hey-yo-ou-pescadores-chineses"
           },
           {
             "nome": "3. Pout Pourri de natal - Alegria do natal",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/4ano/volume4/03 Faixa 3.mp3",
             "slug": "pout-pourri-de-natal-alegria-do-natal"
           },
-          { "nome": "4. Track", "url": "", "slug": "track" }
+          {
+            "nome": "4. Track",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/4ano/volume4/04 Faixa 4.mp3",
+            "slug": "track"
+          }
         ]
       }
     ]
@@ -614,77 +954,133 @@
         "audios": [
           {
             "nome": "1. Hey, Hello, Bonjour",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/5ano/volume1/01 Faixa 1.mp3",
             "slug": "hey-hello-bonjour"
           },
           {
             "nome": "2. Parabéns pra você!",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/5ano/volume1/02 Faixa 2.mp3",
             "slug": "parabens-pra-voce"
           },
-          { "nome": "3. La Mérica", "url": "", "slug": "la-merica" },
+          {
+            "nome": "3. La Mérica",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/5ano/volume1/03 Faixa 3.mp3",
+            "slug": "la-merica"
+          },
           {
             "nome": "4. Io mi sono um poveretto",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/5ano/volume1/04 Faixa 4.mp3",
             "slug": "io-mi-sono-um-poveretto"
           },
           {
             "nome": "5. Tocando em sol maior",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/5ano/volume1/05 Faixa 5.mp3",
             "slug": "tocando-em-sol-maior"
           },
           {
             "nome": "6. Tocando em sol maior (Playback)",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/5ano/volume1/06 Faixa 6.mp3",
             "slug": "tocando-em-sol-maior-playback"
           },
           {
             "nome": "7. La bella polenta",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/5ano/volume1/07 Faixa 7.mp3",
             "slug": "la-bella-polenta"
           },
           {
             "nome": "8. Al lado de mi cabana",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/5ano/volume1/08 Faixa 8.mp3",
             "slug": "al-lado-de-mi-cabana"
           },
-          { "nome": "9. Froh Zu Sein", "url": "", "slug": "froh-zu-sein" },
-          { "nome": "10. Winter Ade", "url": "", "slug": "winter-ade" },
-          { "nome": "11. Sakura", "url": "", "slug": "sakura" },
-          { "nome": "12. Hotaru Koi", "url": "", "slug": "hotaru-koi" },
-          { "nome": "13. Vira do moinho", "url": "", "slug": "vira-do-moinho" },
-          { "nome": "14. Segura pião", "url": "", "slug": "segura-piao" },
+          {
+            "nome": "9. Froh Zu Sein",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/5ano/volume1/09 Faixa 9.mp3",
+            "slug": "froh-zu-sein"
+          },
+          {
+            "nome": "10. Winter Ade",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/5ano/volume1/010 Faixa 10.mp3",
+            "slug": "winter-ade"
+          },
+          {
+            "nome": "11. Sakura",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/5ano/volume1/011 Faixa 11.mp3",
+            "slug": "sakura"
+          },
+          {
+            "nome": "12. Hotaru Koi",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/5ano/volume1/012 Faixa 12.mp3",
+            "slug": "hotaru-koi"
+          },
+          {
+            "nome": "13. Vira do moinho",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/5ano/volume1/013 Faixa 13.mp3",
+            "slug": "vira-do-moinho"
+          },
+          {
+            "nome": "14. Segura pião",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/5ano/volume1/014 Faixa 14.mp3",
+            "slug": "segura-piao"
+          },
           {
             "nome": "15. Segura pião (Playback)",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/5ano/volume1/015 Faixa 15.mp3",
             "slug": "segura-piao-playback"
           },
-          { "nome": "16. O pião", "url": "", "slug": "o-piao" },
+          {
+            "nome": "16. O pião",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/5ano/volume1/016 Faixa 16.mp3",
+            "slug": "o-piao"
+          },
           {
             "nome": "17. O pião (Playback)",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/5ano/volume1/017 Faixa 17.mp3",
             "slug": "o-piao-playback"
           },
-          { "nome": "18. Wimbawe", "url": "", "slug": "wimbawe" },
-          { "nome": "19. Siyahamba", "url": "", "slug": "siyahamba" }
+          {
+            "nome": "18. Wimbawe",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/5ano/volume1/018 Faixa 18.mp3",
+            "slug": "wimbawe"
+          },
+          {
+            "nome": "19. Siyahamba",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/5ano/volume1/019 Faixa 19.mp3",
+            "slug": "siyahamba"
+          }
         ]
       },
       {
         "nome": "Volume 2",
         "slug": "volume-2",
         "audios": [
-          { "nome": "1. Rap Lado bom", "url": "", "slug": "rap-lado-bom" },
-          { "nome": "2. Scratch", "url": "", "slug": "scratch" },
-          { "nome": "3. Mixer", "url": "", "slug": "mixer" },
+          {
+            "nome": "1. Rap Lado bom",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/5ano/volume2/01 Faixa 1.mp3",
+            "slug": "rap-lado-bom"
+          },
+          {
+            "nome": "2. Scratch",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/5ano/volume2/02 Faixa 2.mp3",
+            "slug": "scratch"
+          },
+          {
+            "nome": "3. Mixer",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/5ano/volume2/03 Faixa 3.mp3",
+            "slug": "mixer"
+          },
           {
             "nome": "4. Beat eletrônico",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/5ano/volume2/04 Faixa 4.mp3",
             "slug": "beat-eletronico"
           },
-          { "nome": "5. Rap do tempo", "url": "", "slug": "rap-do-tempo" },
+          {
+            "nome": "5. Rap do tempo",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/5ano/volume2/05 Faixa 5.mp3",
+            "slug": "rap-do-tempo"
+          },
           {
             "nome": "6. Variações da marcação do bumbo",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/5ano/volume2/06 Faixa 6.mp3",
             "slug": "variacoes-da-marcacao-do-bumbo"
           }
         ]
@@ -695,50 +1091,82 @@
         "audios": [
           {
             "nome": "1. Amizade sincera",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/5ano/volume3/01 Faixa 1.mp3",
             "slug": "amizade-sincera"
           },
           {
             "nome": "2. As mocinhas da cidade",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/5ano/volume3/02 Faixa 2.mp3",
             "slug": "as-mocinhas-da-cidade"
           },
           {
             "nome": "3. Viola Contadeira",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/5ano/volume3/03 Faixa 3.mp3",
             "slug": "viola-contadeira"
           },
           {
             "nome": "4. Viola Contadeira",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/5ano/volume3/04 Faixa 4.mp3",
             "slug": "viola-contadeira"
           },
-          { "nome": "5. Chico Mineiro", "url": "", "slug": "chico-mineiro" },
+          {
+            "nome": "5. Chico Mineiro",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/5ano/volume3/05 Faixa 5.mp3",
+            "slug": "chico-mineiro"
+          },
           {
             "nome": "6. Brasil sertanejo",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/5ano/volume3/06 Faixa 6.mp3",
             "slug": "brasil-sertanejo"
           },
           {
             "nome": "7. Canto do Povo de algum lugar",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/5ano/volume3/07 Faixa 7.mp3",
             "slug": "canto-do-povo-de-algum-lugar"
           },
-          { "nome": "8. Guitarra", "url": "", "slug": "guitarra" },
-          { "nome": "9. Contrabaixo", "url": "", "slug": "contrabaixo" },
+          {
+            "nome": "8. Guitarra",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/5ano/volume3/08 Faixa 8.mp3",
+            "slug": "guitarra"
+          },
+          {
+            "nome": "9. Contrabaixo",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/5ano/volume3/09 Faixa 9.mp3",
+            "slug": "contrabaixo"
+          },
           {
             "nome": "10. Quadrilha dos instrumentos",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/5ano/volume3/010 Faixa 10.mp3",
             "slug": "quadrilha-dos-instrumentos"
           },
-          { "nome": "11. Sintetizador", "url": "", "slug": "sintetizador" },
-          { "nome": "12. Teclado", "url": "", "slug": "teclado" },
-          { "nome": "13. Guitarra", "url": "", "slug": "guitarra" },
-          { "nome": "14. Bateria", "url": "", "slug": "bateria" },
-          { "nome": "15. Baixo", "url": "", "slug": "baixo" },
+          {
+            "nome": "11. Sintetizador",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/5ano/volume3/011 Faixa 11.mp3",
+            "slug": "sintetizador"
+          },
+          {
+            "nome": "12. Teclado",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/5ano/volume3/012 Faixa 12.mp3",
+            "slug": "teclado"
+          },
+          {
+            "nome": "13. Guitarra",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/5ano/volume3/013 Faixa 13.mp3",
+            "slug": "guitarra"
+          },
+          {
+            "nome": "14. Bateria",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/5ano/volume3/014 Faixa 14.mp3",
+            "slug": "bateria"
+          },
+          {
+            "nome": "15. Baixo",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/5ano/volume3/015 Faixa 15.mp3",
+            "slug": "baixo"
+          },
           {
             "nome": "16. Bateria eletrônica",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/5ano/volume3/016 Faixa 16.mp3",
             "slug": "bateria-eletronica"
           }
         ]
@@ -747,84 +1175,104 @@
         "nome": "Volume 4",
         "slug": "volume-4",
         "audios": [
-          { "nome": "1. A orquestra", "url": "", "slug": "a-orquestra" },
+          {
+            "nome": "1. A orquestra",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/5ano/volume4/01 Faixa 1.mp3",
+            "slug": "a-orquestra"
+          },
           {
             "nome": "2. Minuetto em sol maior",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/5ano/volume4/02 Faixa 2.mp3",
             "slug": "minuetto-em-sol-maior"
           },
           {
             "nome": "3. Minuetto em sol maior (Playback)",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/5ano/volume4/03 Faixa 3.mp3",
             "slug": "minuetto-em-sol-maior-playback"
           },
           {
             "nome": "4. Tema Primavera das quatro estações - Violino I",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/5ano/volume4/04 Faixa 4.mp3",
             "slug": "tema-primavera-das-quatro-estacoes-violino-i"
           },
           {
             "nome": "5. Tema Primavera das quatro estações - Violino II",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/5ano/volume4/05 Faixa 5.mp3",
             "slug": "tema-primavera-das-quatro-estacoes-violino-ii"
           },
           {
             "nome": "6. Tema Primavera das quatro estações - Viola",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/5ano/volume4/06 Faixa 6.mp3",
             "slug": "tema-primavera-das-quatro-estacoes-viola"
           },
           {
             "nome": "7. Tema Primavera das quatro estações - Violinos I e II e Viola",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/5ano/volume4/07 Faixa 7.mp3",
             "slug": "tema-primavera-das-quatro-estacoes-violinos-i-e-ii-e-viola"
           },
           {
             "nome": "8. Tema Primavera das quatro estações - Violoncelo",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/5ano/volume4/08 Faixa 8.mp3",
             "slug": "tema-primavera-das-quatro-estacoes-violoncelo"
           },
           {
             "nome": "9. Tema Primavera das quatro estações - Violinos, Viola e Violoncelo",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/5ano/volume4/09 Faixa 9.mp3",
             "slug": "tema-primavera-das-quatro-estacoes-violinos-viola-e-violoncelo"
           },
           {
             "nome": "10. Tema Primavera das quatro estações - Contrabaixo",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/5ano/volume4/010 Faixa 10.mp3",
             "slug": "tema-primavera-das-quatro-estacoes-contrabaixo"
           },
           {
             "nome": "11. Tema Primavera das quatro estações - Violinos, Viola e Violoncelo e Contrabaixo",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/5ano/volume4/011 Faixa 11.mp3",
             "slug": "tema-primavera-das-quatro-estacoes-violinos-viola-e-violoncelo-e-contrabaixo"
           },
           {
             "nome": "12. Jesus, alegria dos homens",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/5ano/volume4/012 Faixa 12.mp3",
             "slug": "jesus-alegria-dos-homens"
           },
           {
             "nome": "13. Jesus, alegria dos homens (Playback)",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/5ano/volume4/013 Faixa 13.mp3",
             "slug": "jesus-alegria-dos-homens-playback"
           },
-          { "nome": "14. Tímpanos", "url": "", "slug": "timpanos" },
+          {
+            "nome": "14. Tímpanos",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/5ano/volume4/014 Faixa 14.mp3",
+            "slug": "timpanos"
+          },
           {
             "nome": "15. Marcha dos soldadinhos de chumbo",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/5ano/volume4/015 Faixa 15.mp3",
             "slug": "marcha-dos-soldadinhos-de-chumbo"
           },
-          { "nome": "16. Nuvens", "url": "", "slug": "nuvens" },
+          {
+            "nome": "16. Nuvens",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/5ano/volume4/016 Faixa 16.mp3",
+            "slug": "nuvens"
+          },
           {
             "nome": "17. Nuvens (Playback)",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/5ano/volume4/017 Faixa 17.mp3",
             "slug": "nuvens-playback"
           },
-          { "nome": "18. Tema o Guarani", "url": "", "slug": "tema-o-guarani" },
-          { "nome": "19. Quem sabe", "url": "", "slug": "quem-sabe" },
+          {
+            "nome": "18. Tema o Guarani",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/5ano/volume4/018 Faixa 18.mp3",
+            "slug": "tema-o-guarani"
+          },
+          {
+            "nome": "19. Quem sabe",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/5ano/volume4/019 Faixa 19.mp3",
+            "slug": "quem-sabe"
+          },
           {
             "nome": "20. O mundo da música (Pout Pourri)",
-            "url": "",
+            "url": "https://stlivromusicaprod001.blob.core.windows.net/audios/5ano/volume4/020 Faixa 20.mp3",
             "slug": "o-mundo-da-musica-pout-pourri"
           }
         ]
