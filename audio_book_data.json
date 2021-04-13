@@ -8,66 +8,138 @@
         "nome": "Volume 1",
         "slug": "volume-1",
         "audios": [
-          { "name": "1. Que prazer", "url": "" },
-          { "name": "2. Que prazer - PLAYBACK", "url": "" },
-          { "name": "3. Quem sabe...", "url": "" },
-          { "name": "4. Hello – homem cantando", "url": "" },
-          { "name": "5. Hello – mulher cantando", "url": "" },
-          { "name": "6. Hello – criança cantando", "url": "" },
-          { "name": "7. Um, dois, feijão com arroz", "url": "" }
+          { "nome": "1. Que prazer", "url": "", "slug": "que-prazer" },
+          {
+            "nome": "2. Que prazer - PLAYBACK",
+            "url": "",
+            "slug": "que-prazer-playback"
+          },
+          { "nome": "3. Quem sabe...", "url": "", "slug": "quem-sabe" },
+          {
+            "nome": "4. Hello – homem cantando",
+            "url": "",
+            "slug": "hello-homem-cantando"
+          },
+          {
+            "nome": "5. Hello – mulher cantando",
+            "url": "",
+            "slug": "hello-mulher-cantando"
+          },
+          {
+            "nome": "6. Hello – criança cantando",
+            "url": "",
+            "slug": "hello-crianca-cantando"
+          },
+          {
+            "nome": "7. Um, dois, feijão com arroz",
+            "url": "",
+            "slug": "um-dois-feijao-com-arroz"
+          }
         ]
       },
       {
         "nome": "Volume 2",
         "slug": "volume-2",
         "audios": [
-          { "name": "1. Histórias dos ratinhos no zoológico", "url": "" },
-          { "name": "2. Seis ratinhos", "url": "" },
-          { "name": "3. O meu violão", "url": "" },
-          { "name": "4. Agudo e grave", "url": "" },
-          { "name": "5. Bate, bate!", "url": "" },
-          { "name": "6. Escravos de jó", "url": "" },
-          { "name": "7. Sons dos instrumentos: Piano", "url": "" },
-          { "name": "8. Sons dos instrumentos: Violão", "url": "" },
-          { "name": "9. Sons dos instrumentos: Ganza", "url": "" },
-          { "name": "10. Sons dos instrumentos: Caxixi", "url": "" },
-          { "name": "11. Sons dos instrumentos: Reco-reco", "url": "" },
-          { "name": "12. Sons dos instrumentos: Clava", "url": "" }
+          {
+            "nome": "1. Histórias dos ratinhos no zoológico",
+            "url": "",
+            "slug": "historias-dos-ratinhos-no-zoologico"
+          },
+          { "nome": "2. Seis ratinhos", "url": "", "slug": "seis-ratinhos" },
+          { "nome": "3. O meu violão", "url": "", "slug": "o-meu-violao" },
+          { "nome": "4. Agudo e grave", "url": "", "slug": "agudo-e-grave" },
+          { "nome": "5. Bate, bate!", "url": "", "slug": "bate-bate" },
+          { "nome": "6. Escravos de jó", "url": "", "slug": "escravos-de-jo" },
+          {
+            "nome": "7. Sons dos instrumentos: Piano",
+            "url": "",
+            "slug": "sons-dos-instrumentos-piano"
+          },
+          {
+            "nome": "8. Sons dos instrumentos: Violão",
+            "url": "",
+            "slug": "sons-dos-instrumentos-violao"
+          },
+          {
+            "nome": "9. Sons dos instrumentos: Ganza",
+            "url": "",
+            "slug": "sons-dos-instrumentos-ganza"
+          },
+          {
+            "nome": "10. Sons dos instrumentos: Caxixi",
+            "url": "",
+            "slug": "sons-dos-instrumentos-caxixi"
+          },
+          {
+            "nome": "11. Sons dos instrumentos: Reco-reco",
+            "url": "",
+            "slug": "sons-dos-instrumentos-reco-reco"
+          },
+          {
+            "nome": "12. Sons dos instrumentos: Clava",
+            "url": "",
+            "slug": "sons-dos-instrumentos-clava"
+          }
         ]
       },
       {
         "nome": "Volume 3",
         "slug": "volume-3",
         "audios": [
-          { "name": "1. Sorveteiro", "url": "" },
-          { "name": "2. Chocolate", "url": "" },
-          { "name": "3. One, two, three", "url": "" },
-          { "name": "4. A galinha do vizinho", "url": "" },
-          { "name": "5. Adoleta", "url": "" },
-          { "name": "6. Giorni", "url": "" },
-          { "name": "7. Passou um carrinho de picolé", "url": "" },
-          { "name": "8. O sapo", "url": "" },
-          { "name": "9. Bambalalão", "url": "" },
-          { "name": "10. Na Bahia tem", "url": "" }
+          { "nome": "1. Sorveteiro", "url": "", "slug": "sorveteiro" },
+          { "nome": "2. Chocolate", "url": "", "slug": "chocolate" },
+          { "nome": "3. One, two, three", "url": "", "slug": "one-two-three" },
+          {
+            "nome": "4. A galinha do vizinho",
+            "url": "",
+            "slug": "a-galinha-do-vizinho"
+          },
+          { "nome": "5. Adoleta", "url": "", "slug": "adoleta" },
+          { "nome": "6. Giorni", "url": "", "slug": "giorni" },
+          {
+            "nome": "7. Passou um carrinho de picolé",
+            "url": "",
+            "slug": "passou-um-carrinho-de-picole"
+          },
+          { "nome": "8. O sapo", "url": "", "slug": "o-sapo" },
+          { "nome": "9. Bambalalão", "url": "", "slug": "bambalalao" },
+          { "nome": "10. Na Bahia tem", "url": "", "slug": "na-bahia-tem" }
         ]
       },
       {
         "nome": "Volume 4",
         "slug": "volume-4",
         "audios": [
-          { "name": "1. O indiozinho tocou o seu tambor", "url": "" },
-          { "name": "2. The Earth is our mother", "url": "" },
-          { "name": "3. Flauta transversal", "url": "" },
-          { "name": "4. Pandeiro", "url": "" },
-          { "name": "5. Cavaquinho", "url": "" },
-          { "name": "6. Violão", "url": "" },
-          { "name": "7. Viola caipira", "url": "" },
-          { "name": "8. Violino", "url": "" },
-          { "name": "9. Rabeca", "url": "" },
-          { "name": "10. Berimbau", "url": "" },
-          { "name": "11. Flauta doce", "url": "" },
-          { "name": "12. Saxofone", "url": "" },
-          { "name": "13. Flauta transversal", "url": "" }
+          {
+            "nome": "1. O indiozinho tocou o seu tambor",
+            "url": "",
+            "slug": "o-indiozinho-tocou-o-seu-tambor"
+          },
+          {
+            "nome": "2. The Earth is our mother",
+            "url": "",
+            "slug": "the-earth-is-our-mother"
+          },
+          {
+            "nome": "3. Flauta transversal",
+            "url": "",
+            "slug": "flauta-transversal"
+          },
+          { "nome": "4. Pandeiro", "url": "", "slug": "pandeiro" },
+          { "nome": "5. Cavaquinho", "url": "", "slug": "cavaquinho" },
+          { "nome": "6. Violão", "url": "", "slug": "violao" },
+          { "nome": "7. Viola caipira", "url": "", "slug": "viola-caipira" },
+          { "nome": "8. Violino", "url": "", "slug": "violino" },
+          { "nome": "9. Rabeca", "url": "", "slug": "rabeca" },
+          { "nome": "10. Berimbau", "url": "", "slug": "berimbau" },
+          { "nome": "11. Flauta doce", "url": "", "slug": "flauta-doce" },
+          { "nome": "12. Saxofone", "url": "", "slug": "saxofone" },
+          {
+            "nome": "13. Flauta transversal",
+            "url": "",
+            "slug": "flauta-transversal"
+          }
         ]
       }
     ]
@@ -81,65 +153,117 @@
         "nome": "Volume 1",
         "slug": "volume-1",
         "audios": [
-          { "name": "1. Este é o tempo", "url": "" },
-          { "name": "2. Os relógios", "url": "" },
-          { "name": "3. Cuco", "url": "" },
-          { "name": "4. Viajar de trem", "url": "" },
-          { "name": "5. Reco-reco(madeira)", "url": "" },
-          { "name": "6. Reco-reco(metal)", "url": "" },
-          { "name": "7. Xilofone", "url": "" },
-          { "name": "8. Metalofone", "url": "" }
+          { "nome": "1. Este é o tempo", "url": "", "slug": "este-e-o-tempo" },
+          { "nome": "2. Os relógios", "url": "", "slug": "os-relogios" },
+          { "nome": "3. Cuco", "url": "", "slug": "cuco" },
+          { "nome": "4. Viajar de trem", "url": "", "slug": "viajar-de-trem" },
+          {
+            "nome": "5. Reco-reco(madeira)",
+            "url": "",
+            "slug": "reco-reco-madeira"
+          },
+          {
+            "nome": "6. Reco-reco(metal)",
+            "url": "",
+            "slug": "reco-reco-metal"
+          },
+          { "nome": "7. Xilofone", "url": "", "slug": "xilofone" },
+          { "nome": "8. Metalofone", "url": "", "slug": "metalofone" }
         ]
       },
       {
         "nome": "Volume 2",
         "slug": "volume-2",
         "audios": [
-          { "name": "1. Violino", "url": "" },
-          { "name": "2. Violino", "url": "" },
-          { "name": "3. Contrabaixo", "url": "" },
-          { "name": "4. Contrabaixo", "url": "" }
+          { "nome": "1. Violino", "url": "", "slug": "violino" },
+          { "nome": "2. Violino", "url": "", "slug": "violino" },
+          { "nome": "3. Contrabaixo", "url": "", "slug": "contrabaixo" },
+          { "nome": "4. Contrabaixo", "url": "", "slug": "contrabaixo" }
         ]
       },
       {
         "nome": "Volume 3",
         "slug": "volume-3",
         "audios": [
-          { "name": "1. Cai, cai balão (Xaxado)", "url": "" },
-          { "name": "2. Cai, cai balão (Xote)", "url": "" },
-          { "name": "3. Cai, cai balão (Baião)", "url": "" },
-          { "name": "4. Ritmo do Baião", "url": "" },
-          { "name": "5. Acordeão", "url": "" },
-          { "name": "6. Triangulo", "url": "" },
-          { "name": "7. Zabumba", "url": "" },
-          { "name": "8. Baião Bailão", "url": "" },
-          { "name": "9. Quem quiser que me acompanhe", "url": "" },
-          { "name": "10. Pop goes the wasel", "url": "" },
-          { "name": "11. Eco rítmico Sessão 1", "url": "" },
-          { "name": "12. Eco rítmico Sessão 2", "url": "" },
-          { "name": "13. Eco rítmico Sessão 3", "url": "" },
-          { "name": "14. Xique Xique", "url": "" },
-          { "name": "15. Ganzá", "url": "" }
+          {
+            "nome": "1. Cai, cai balão (Xaxado)",
+            "url": "",
+            "slug": "cai-cai-balao-xaxado"
+          },
+          {
+            "nome": "2. Cai, cai balão (Xote)",
+            "url": "",
+            "slug": "cai-cai-balao-xote"
+          },
+          {
+            "nome": "3. Cai, cai balão (Baião)",
+            "url": "",
+            "slug": "cai-cai-balao-baiao"
+          },
+          { "nome": "4. Ritmo do Baião", "url": "", "slug": "ritmo-do-baiao" },
+          { "nome": "5. Acordeão", "url": "", "slug": "acordeao" },
+          { "nome": "6. Triangulo", "url": "", "slug": "triangulo" },
+          { "nome": "7. Zabumba", "url": "", "slug": "zabumba" },
+          { "nome": "8. Baião Bailão", "url": "", "slug": "baiao-bailao" },
+          {
+            "nome": "9. Quem quiser que me acompanhe",
+            "url": "",
+            "slug": "quem-quiser-que-me-acompanhe"
+          },
+          {
+            "nome": "10. Pop goes the wasel",
+            "url": "",
+            "slug": "pop-goes-the-wasel"
+          },
+          {
+            "nome": "11. Eco rítmico Sessão 1",
+            "url": "",
+            "slug": "eco-ritmico-sessao"
+          },
+          {
+            "nome": "12. Eco rítmico Sessão 2",
+            "url": "",
+            "slug": "eco-ritmico-sessao"
+          },
+          {
+            "nome": "13. Eco rítmico Sessão 3",
+            "url": "",
+            "slug": "eco-ritmico-sessao"
+          },
+          { "nome": "14. Xique Xique", "url": "", "slug": "xique-xique" },
+          { "nome": "15. Ganzá", "url": "", "slug": "ganza" }
         ]
       },
       {
         "nome": "Volume 4",
         "slug": "volume-4",
         "audios": [
-          { "name": "1. Passa, passa, gavião", "url": "" },
-          { "name": "2. Indo eu", "url": "" },
-          { "name": "3. Pout-Pourri de cantigas de roda", "url": "" },
-          { "name": "4. La bela lavanderina", "url": "" },
-          { "name": "5. Piano", "url": "" },
-          { "name": "6. viola caipira", "url": "" },
-          { "name": "7. Violoncelo", "url": "" },
-          { "name": "8. Viola", "url": "" },
-          { "name": "9. Clarineta", "url": "" },
-          { "name": "10. Violão", "url": "" },
-          { "name": "11. Reco-reco", "url": "" },
-          { "name": "12. Cuíca", "url": "" },
-          { "name": "13. Canidé", "url": "" },
-          { "name": "14. Obwisana", "url": "" }
+          {
+            "nome": "1. Passa, passa, gavião",
+            "url": "",
+            "slug": "passa-passa-gaviao"
+          },
+          { "nome": "2. Indo eu", "url": "", "slug": "indo-eu" },
+          {
+            "nome": "3. Pout-Pourri de cantigas de roda",
+            "url": "",
+            "slug": "pout-pourri-de-cantigas-de-roda"
+          },
+          {
+            "nome": "4. La bela lavanderina",
+            "url": "",
+            "slug": "la-bela-lavanderina"
+          },
+          { "nome": "5. Piano", "url": "", "slug": "piano" },
+          { "nome": "6. viola caipira", "url": "", "slug": "viola-caipira" },
+          { "nome": "7. Violoncelo", "url": "", "slug": "violoncelo" },
+          { "nome": "8. Viola", "url": "", "slug": "viola" },
+          { "nome": "9. Clarineta", "url": "", "slug": "clarineta" },
+          { "nome": "10. Violão", "url": "", "slug": "violao" },
+          { "nome": "11. Reco-reco", "url": "", "slug": "reco-reco" },
+          { "nome": "12. Cuíca", "url": "", "slug": "cuica" },
+          { "nome": "13. Canidé", "url": "", "slug": "canide" },
+          { "nome": "14. Obwisana", "url": "", "slug": "obwisana" }
         ]
       }
     ]
@@ -153,76 +277,212 @@
         "nome": "Volume 1",
         "slug": "volume-1",
         "audios": [
-          { "name": "1. Aula de música", "url": "" },
-          { "name": "2. Lenda do Uakti", "url": "" },
-          { "name": "3. Violino", "url": "" },
-          { "name": "4. Piano", "url": "" },
-          { "name": "5. Xilofone", "url": "" },
-          { "name": "6. O Guarda Apitou", "url": "" },
-          { "name": "7. Carnaval de Arequipa", "url": "" },
-          { "name": "8. A Flauta do Belarmino", "url": "" },
-          { "name": "9. Greensleeves", "url": "" },
-          { "name": "10. Pout-Pourri Folclore", "url": "" },
-          { "name": "11. Brincando com balões", "url": "" },
-          { "name": "12. Tocando", "url": "" }
+          { "nome": "1. Aula de música", "url": "", "slug": "aula-de-musica" },
+          { "nome": "2. Lenda do Uakti", "url": "", "slug": "lenda-do-uakti" },
+          { "nome": "3. Violino", "url": "", "slug": "violino" },
+          { "nome": "4. Piano", "url": "", "slug": "piano" },
+          { "nome": "5. Xilofone", "url": "", "slug": "xilofone" },
+          {
+            "nome": "6. O Guarda Apitou",
+            "url": "",
+            "slug": "o-guarda-apitou"
+          },
+          {
+            "nome": "7. Carnaval de Arequipa",
+            "url": "",
+            "slug": "carnaval-de-arequipa"
+          },
+          {
+            "nome": "8. A Flauta do Belarmino",
+            "url": "",
+            "slug": "a-flauta-do-belarmino"
+          },
+          { "nome": "9. Greensleeves", "url": "", "slug": "greensleeves" },
+          {
+            "nome": "10. Pout-Pourri Folclore",
+            "url": "",
+            "slug": "pout-pourri-folclore"
+          },
+          {
+            "nome": "11. Brincando com balões",
+            "url": "",
+            "slug": "brincando-com-baloes"
+          },
+          { "nome": "12. Tocando", "url": "", "slug": "tocando" }
         ]
       },
       {
         "nome": "Volume 2",
         "slug": "volume-2",
         "audios": [
-          { "name": "1. Lenda do Ukati", "url": "" },
-          { "name": "2. Carnaval de Arequipa", "url": "" },
-          { "name": "3. A flauta de belarmino", "url": "" },
-          { "name": "4. Greensleeves", "url": "" },
-          { "name": "5. Pout Pouri Folclore", "url": "" },
-          { "name": "6. Brincando com balões", "url": "" },
-          { "name": "7. Descobrindo a grafia", "url": "" },
-          { "name": "8. O guarda apitou", "url": "" },
-          { "name": "9. Violino Glissando", "url": "" },
-          { "name": "10. Piano Glissando", "url": "" },
-          { "name": "11. Xilofone Glissando", "url": "" },
-          { "name": "12. Subindo e descendo", "url": "" }
+          { "nome": "1. Lenda do Ukati", "url": "", "slug": "lenda-do-ukati" },
+          {
+            "nome": "2. Carnaval de Arequipa",
+            "url": "",
+            "slug": "carnaval-de-arequipa"
+          },
+          {
+            "nome": "3. A flauta de belarmino",
+            "url": "",
+            "slug": "a-flauta-de-belarmino"
+          },
+          { "nome": "4. Greensleeves", "url": "", "slug": "greensleeves" },
+          {
+            "nome": "5. Pout Pouri Folclore",
+            "url": "",
+            "slug": "pout-pouri-folclore"
+          },
+          {
+            "nome": "6. Brincando com balões",
+            "url": "",
+            "slug": "brincando-com-baloes"
+          },
+          {
+            "nome": "7. Descobrindo a grafia",
+            "url": "",
+            "slug": "descobrindo-a-grafia"
+          },
+          {
+            "nome": "8. O guarda apitou",
+            "url": "",
+            "slug": "o-guarda-apitou"
+          },
+          {
+            "nome": "9. Violino Glissando",
+            "url": "",
+            "slug": "violino-glissando"
+          },
+          {
+            "nome": "10. Piano Glissando",
+            "url": "",
+            "slug": "piano-glissando"
+          },
+          {
+            "nome": "11. Xilofone Glissando",
+            "url": "",
+            "slug": "xilofone-glissando"
+          },
+          {
+            "nome": "12. Subindo e descendo",
+            "url": "",
+            "slug": "subindo-e-descendo"
+          }
         ]
       },
       {
         "nome": "Volume 3",
         "slug": "volume-3",
         "audios": [
-          { "name": "1. História Viola no saco", "url": "" },
-          { "name": "2. Sapo cururu", "url": "" },
-          { "name": "3. Viola Caipira", "url": "" },
-          { "name": "4. Rabo do tatu", "url": "" },
-          { "name": "5. Unidunitê", "url": "" },
-          { "name": "6. Já sei tocar", "url": "" },
-          { "name": "7. Já sei tocar (Playback)", "url": "" },
-          { "name": "8. Flauta doce sopranino", "url": "" },
-          { "name": "9. Flauta doce soprano", "url": "" },
-          { "name": "10. Flauta doce contralto", "url": "" },
-          { "name": "11. Flauta doce tenor", "url": "" },
-          { "name": "12. Flauta doce baixo", "url": "" },
-          { "name": "13. Quinteto de flautas", "url": "" }
+          {
+            "nome": "1. História Viola no saco",
+            "url": "",
+            "slug": "historia-viola-no-saco"
+          },
+          { "nome": "2. Sapo cururu", "url": "", "slug": "sapo-cururu" },
+          { "nome": "3. Viola Caipira", "url": "", "slug": "viola-caipira" },
+          { "nome": "4. Rabo do tatu", "url": "", "slug": "rabo-do-tatu" },
+          { "nome": "5. Unidunitê", "url": "", "slug": "unidunite" },
+          { "nome": "6. Já sei tocar", "url": "", "slug": "ja-sei-tocar" },
+          {
+            "nome": "7. Já sei tocar (Playback)",
+            "url": "",
+            "slug": "ja-sei-tocar-playback"
+          },
+          {
+            "nome": "8. Flauta doce sopranino",
+            "url": "",
+            "slug": "flauta-doce-sopranino"
+          },
+          {
+            "nome": "9. Flauta doce soprano",
+            "url": "",
+            "slug": "flauta-doce-soprano"
+          },
+          {
+            "nome": "10. Flauta doce contralto",
+            "url": "",
+            "slug": "flauta-doce-contralto"
+          },
+          {
+            "nome": "11. Flauta doce tenor",
+            "url": "",
+            "slug": "flauta-doce-tenor"
+          },
+          {
+            "nome": "12. Flauta doce baixo",
+            "url": "",
+            "slug": "flauta-doce-baixo"
+          },
+          {
+            "nome": "13. Quinteto de flautas",
+            "url": "",
+            "slug": "quinteto-de-flautas"
+          }
         ]
       },
       {
         "nome": "Volume 4",
         "slug": "volume-4",
         "audios": [
-          { "name": "1. Minuetos (Violino)", "url": "" },
-          { "name": "2. Minuetos (Cravo)", "url": "" },
-          { "name": "3. Minuetos (Piano)", "url": "" },
-          { "name": "4. Minha flauta mágica", "url": "" },
-          { "name": "5. Minha flauta mágica (Playback)", "url": "" },
-          { "name": "6. A casinha da vovó", "url": "" },
-          { "name": "7. A casinha da vovó (Playback)", "url": "" },
-          { "name": "8. Lá, si e dó", "url": "" },
-          { "name": "9. Lá, si e dó (Playback)", "url": "" },
-          { "name": "10. A pauta musical", "url": "" },
-          { "name": "11. Agudo e grave", "url": "" },
-          { "name": "12. Notas musicais", "url": "" },
-          { "name": "13. Minha canção (fonograma)", "url": "" },
-          { "name": "14. Tocando", "url": "" },
-          { "name": "15. Tocando (Playback)", "url": "" }
+          {
+            "nome": "1. Minuetos (Violino)",
+            "url": "",
+            "slug": "minuetos-violino"
+          },
+          {
+            "nome": "2. Minuetos (Cravo)",
+            "url": "",
+            "slug": "minuetos-cravo"
+          },
+          {
+            "nome": "3. Minuetos (Piano)",
+            "url": "",
+            "slug": "minuetos-piano"
+          },
+          {
+            "nome": "4. Minha flauta mágica",
+            "url": "",
+            "slug": "minha-flauta-magica"
+          },
+          {
+            "nome": "5. Minha flauta mágica (Playback)",
+            "url": "",
+            "slug": "minha-flauta-magica-playback"
+          },
+          {
+            "nome": "6. A casinha da vovó",
+            "url": "",
+            "slug": "a-casinha-da-vovo"
+          },
+          {
+            "nome": "7. A casinha da vovó (Playback)",
+            "url": "",
+            "slug": "a-casinha-da-vovo-playback"
+          },
+          { "nome": "8. Lá, si e dó", "url": "", "slug": "la-si-e-do" },
+          {
+            "nome": "9. Lá, si e dó (Playback)",
+            "url": "",
+            "slug": "la-si-e-do-playback"
+          },
+          {
+            "nome": "10. A pauta musical",
+            "url": "",
+            "slug": "a-pauta-musical"
+          },
+          { "nome": "11. Agudo e grave", "url": "", "slug": "agudo-e-grave" },
+          { "nome": "12. Notas musicais", "url": "", "slug": "notas-musicais" },
+          {
+            "nome": "13. Minha canção (fonograma)",
+            "url": "",
+            "slug": "minha-cancao-fonograma"
+          },
+          { "nome": "14. Tocando", "url": "", "slug": "tocando" },
+          {
+            "nome": "15. Tocando (Playback)",
+            "url": "",
+            "slug": "tocando-playback"
+          }
         ]
       }
     ]
@@ -236,53 +496,109 @@
         "nome": "Volume 1",
         "slug": "volume-1",
         "audios": [
-          { "name": "1. Marchinha do recomeço", "url": "" },
-          { "name": "2. Trompete", "url": "" },
-          { "name": "3. Descobrindo o compasso", "url": "" },
-          { "name": "4. O pulo da bola", "url": "" }
+          {
+            "nome": "1. Marchinha do recomeço",
+            "url": "",
+            "slug": "marchinha-do-recomeco"
+          },
+          { "nome": "2. Trompete", "url": "", "slug": "trompete" },
+          {
+            "nome": "3. Descobrindo o compasso",
+            "url": "",
+            "slug": "descobrindo-o-compasso"
+          },
+          { "nome": "4. O pulo da bola", "url": "", "slug": "o-pulo-da-bola" }
         ]
       },
       {
         "nome": "Volume 2",
         "slug": "volume-2",
         "audios": [
-          { "name": "1. A banda", "url": "" },
-          { "name": "2. Fanfarra para o homem comum", "url": "" },
-          { "name": "3. Frère Jacques", "url": "" },
-          { "name": "4. Frère Jacques - Instrumental", "url": "" },
-          { "name": "5. Pra lá e pra cá", "url": "" },
-          { "name": "6. Pra lá e pra cá", "url": "" },
-          { "name": "7. Trombone", "url": "" },
-          { "name": "8. Bolero (ostinato)", "url": "" },
-          { "name": "9. Tuba", "url": "" },
-          { "name": "10. Tem gato na tuba", "url": "" },
-          { "name": "11. A banda", "url": "" }
+          { "nome": "1. A banda", "url": "", "slug": "a-banda" },
+          {
+            "nome": "2. Fanfarra para o homem comum",
+            "url": "",
+            "slug": "fanfarra-para-o-homem-comum"
+          },
+          { "nome": "3. Frère Jacques", "url": "", "slug": "frere-jacques" },
+          {
+            "nome": "4. Frère Jacques - Instrumental",
+            "url": "",
+            "slug": "frere-jacques-instrumental"
+          },
+          {
+            "nome": "5. Pra lá e pra cá",
+            "url": "",
+            "slug": "pra-la-e-pra-ca"
+          },
+          {
+            "nome": "6. Pra lá e pra cá",
+            "url": "",
+            "slug": "pra-la-e-pra-ca"
+          },
+          { "nome": "7. Trombone", "url": "", "slug": "trombone" },
+          {
+            "nome": "8. Bolero (ostinato)",
+            "url": "",
+            "slug": "bolero-ostinato"
+          },
+          { "nome": "9. Tuba", "url": "", "slug": "tuba" },
+          {
+            "nome": "10. Tem gato na tuba",
+            "url": "",
+            "slug": "tem-gato-na-tuba"
+          },
+          { "nome": "11. A banda", "url": "", "slug": "a-banda" }
         ]
       },
       {
         "nome": "Volume 3",
         "slug": "volume-3",
         "audios": [
-          { "name": "1. É preciso saber viver", "url": "" },
-          { "name": "2. Com meu corpo", "url": "" },
-          { "name": "3. Saladinha", "url": "" },
-          { "name": "4. Improvisando", "url": "" },
-          { "name": "5. América do Sul", "url": "" },
-          { "name": "6. Agogô de metal", "url": "" },
-          { "name": "7. Agogô de madeira", "url": "" },
-          { "name": "8. Sinfonia de colheres", "url": "" },
-          { "name": "9. O tambor e o pandeiro", "url": "" },
-          { "name": "10. Pandeiro", "url": "" }
+          {
+            "nome": "1. É preciso saber viver",
+            "url": "",
+            "slug": "e-preciso-saber-viver"
+          },
+          { "nome": "2. Com meu corpo", "url": "", "slug": "com-meu-corpo" },
+          { "nome": "3. Saladinha", "url": "", "slug": "saladinha" },
+          { "nome": "4. Improvisando", "url": "", "slug": "improvisando" },
+          { "nome": "5. América do Sul", "url": "", "slug": "america-do-sul" },
+          { "nome": "6. Agogô de metal", "url": "", "slug": "agogo-de-metal" },
+          {
+            "nome": "7. Agogô de madeira",
+            "url": "",
+            "slug": "agogo-de-madeira"
+          },
+          {
+            "nome": "8. Sinfonia de colheres",
+            "url": "",
+            "slug": "sinfonia-de-colheres"
+          },
+          {
+            "nome": "9. O tambor e o pandeiro",
+            "url": "",
+            "slug": "o-tambor-e-o-pandeiro"
+          },
+          { "nome": "10. Pandeiro", "url": "", "slug": "pandeiro" }
         ]
       },
       {
         "nome": "Volume 4",
         "slug": "volume-4",
         "audios": [
-          { "name": "1. Celesta", "url": "" },
-          { "name": "2. Hey Yo ou Pescadores Chineses", "url": "" },
-          { "name": "3. Pout Pourri de natal - Alegria do natal", "url": "" },
-          { "name": "4. Track", "url": "" }
+          { "nome": "1. Celesta", "url": "", "slug": "celesta" },
+          {
+            "nome": "2. Hey Yo ou Pescadores Chineses",
+            "url": "",
+            "slug": "hey-yo-ou-pescadores-chineses"
+          },
+          {
+            "nome": "3. Pout Pourri de natal - Alegria do natal",
+            "url": "",
+            "slug": "pout-pourri-de-natal-alegria-do-natal"
+          },
+          { "nome": "4. Track", "url": "", "slug": "track" }
         ]
       }
     ]
@@ -296,109 +612,221 @@
         "nome": "Volume 1",
         "slug": "volume-1",
         "audios": [
-          { "name": "1. Hey, Hello, Bonjour", "url": "" },
-          { "name": "2. Parabéns pra você!", "url": "" },
-          { "name": "3. La Mérica", "url": "" },
-          { "name": "4. Io mi sono um poveretto", "url": "" },
-          { "name": "5. Tocando em sol maior", "url": "" },
-          { "name": "6. Tocando em sol maior (Playback)", "url": "" },
-          { "name": "7. La bella polenta", "url": "" },
-          { "name": "8. Al lado de mi cabana", "url": "" },
-          { "name": "9. Froh Zu Sein", "url": "" },
-          { "name": "10. Winter Ade", "url": "" },
-          { "name": "11. Sakura", "url": "" },
-          { "name": "12. Hotaru Koi", "url": "" },
-          { "name": "13. Vira do moinho", "url": "" },
-          { "name": "14. Segura pião", "url": "" },
-          { "name": "15. Segura pião (Playback)", "url": "" },
-          { "name": "16. O pião", "url": "" },
-          { "name": "17. O pião (Playback)", "url": "" },
-          { "name": "18. Wimbawe", "url": "" },
-          { "name": "19. Siyahamba", "url": "" }
+          {
+            "nome": "1. Hey, Hello, Bonjour",
+            "url": "",
+            "slug": "hey-hello-bonjour"
+          },
+          {
+            "nome": "2. Parabéns pra você!",
+            "url": "",
+            "slug": "parabens-pra-voce"
+          },
+          { "nome": "3. La Mérica", "url": "", "slug": "la-merica" },
+          {
+            "nome": "4. Io mi sono um poveretto",
+            "url": "",
+            "slug": "io-mi-sono-um-poveretto"
+          },
+          {
+            "nome": "5. Tocando em sol maior",
+            "url": "",
+            "slug": "tocando-em-sol-maior"
+          },
+          {
+            "nome": "6. Tocando em sol maior (Playback)",
+            "url": "",
+            "slug": "tocando-em-sol-maior-playback"
+          },
+          {
+            "nome": "7. La bella polenta",
+            "url": "",
+            "slug": "la-bella-polenta"
+          },
+          {
+            "nome": "8. Al lado de mi cabana",
+            "url": "",
+            "slug": "al-lado-de-mi-cabana"
+          },
+          { "nome": "9. Froh Zu Sein", "url": "", "slug": "froh-zu-sein" },
+          { "nome": "10. Winter Ade", "url": "", "slug": "winter-ade" },
+          { "nome": "11. Sakura", "url": "", "slug": "sakura" },
+          { "nome": "12. Hotaru Koi", "url": "", "slug": "hotaru-koi" },
+          { "nome": "13. Vira do moinho", "url": "", "slug": "vira-do-moinho" },
+          { "nome": "14. Segura pião", "url": "", "slug": "segura-piao" },
+          {
+            "nome": "15. Segura pião (Playback)",
+            "url": "",
+            "slug": "segura-piao-playback"
+          },
+          { "nome": "16. O pião", "url": "", "slug": "o-piao" },
+          {
+            "nome": "17. O pião (Playback)",
+            "url": "",
+            "slug": "o-piao-playback"
+          },
+          { "nome": "18. Wimbawe", "url": "", "slug": "wimbawe" },
+          { "nome": "19. Siyahamba", "url": "", "slug": "siyahamba" }
         ]
       },
       {
         "nome": "Volume 2",
         "slug": "volume-2",
         "audios": [
-          { "name": "1. Rap Lado bom", "url": "" },
-          { "name": "2. Scratch", "url": "" },
-          { "name": "3. Mixer", "url": "" },
-          { "name": "4. Beat eletrônico", "url": "" },
-          { "name": "5. Rap do tempo", "url": "" },
-          { "name": "6. Variações da marcação do bumbo", "url": "" }
+          { "nome": "1. Rap Lado bom", "url": "", "slug": "rap-lado-bom" },
+          { "nome": "2. Scratch", "url": "", "slug": "scratch" },
+          { "nome": "3. Mixer", "url": "", "slug": "mixer" },
+          {
+            "nome": "4. Beat eletrônico",
+            "url": "",
+            "slug": "beat-eletronico"
+          },
+          { "nome": "5. Rap do tempo", "url": "", "slug": "rap-do-tempo" },
+          {
+            "nome": "6. Variações da marcação do bumbo",
+            "url": "",
+            "slug": "variacoes-da-marcacao-do-bumbo"
+          }
         ]
       },
       {
         "nome": "Volume 3",
         "slug": "volume-3",
         "audios": [
-          { "name": "1. Amizade sincera", "url": "" },
-          { "name": "2. As mocinhas da cidade", "url": "" },
-          { "name": "3. Viola Contadeira", "url": "" },
-          { "name": "4. Viola Contadeira", "url": "" },
-          { "name": "5. Chico Mineiro", "url": "" },
-          { "name": "6. Brasil sertanejo", "url": "" },
-          { "name": "7. Canto do Povo de algum lugar", "url": "" },
-          { "name": "8. Guitarra", "url": "" },
-          { "name": "9. Contrabaixo", "url": "" },
-          { "name": "10. Quadrilha dos instrumentos", "url": "" },
-          { "name": "11. Sintetizador", "url": "" },
-          { "name": "12. Teclado", "url": "" },
-          { "name": "13. Guitarra", "url": "" },
-          { "name": "14. Bateria", "url": "" },
-          { "name": "15. Baixo", "url": "" },
-          { "name": "16. Bateria eletrônica", "url": "" }
+          {
+            "nome": "1. Amizade sincera",
+            "url": "",
+            "slug": "amizade-sincera"
+          },
+          {
+            "nome": "2. As mocinhas da cidade",
+            "url": "",
+            "slug": "as-mocinhas-da-cidade"
+          },
+          {
+            "nome": "3. Viola Contadeira",
+            "url": "",
+            "slug": "viola-contadeira"
+          },
+          {
+            "nome": "4. Viola Contadeira",
+            "url": "",
+            "slug": "viola-contadeira"
+          },
+          { "nome": "5. Chico Mineiro", "url": "", "slug": "chico-mineiro" },
+          {
+            "nome": "6. Brasil sertanejo",
+            "url": "",
+            "slug": "brasil-sertanejo"
+          },
+          {
+            "nome": "7. Canto do Povo de algum lugar",
+            "url": "",
+            "slug": "canto-do-povo-de-algum-lugar"
+          },
+          { "nome": "8. Guitarra", "url": "", "slug": "guitarra" },
+          { "nome": "9. Contrabaixo", "url": "", "slug": "contrabaixo" },
+          {
+            "nome": "10. Quadrilha dos instrumentos",
+            "url": "",
+            "slug": "quadrilha-dos-instrumentos"
+          },
+          { "nome": "11. Sintetizador", "url": "", "slug": "sintetizador" },
+          { "nome": "12. Teclado", "url": "", "slug": "teclado" },
+          { "nome": "13. Guitarra", "url": "", "slug": "guitarra" },
+          { "nome": "14. Bateria", "url": "", "slug": "bateria" },
+          { "nome": "15. Baixo", "url": "", "slug": "baixo" },
+          {
+            "nome": "16. Bateria eletrônica",
+            "url": "",
+            "slug": "bateria-eletronica"
+          }
         ]
       },
       {
         "nome": "Volume 4",
         "slug": "volume-4",
         "audios": [
-          { "name": "1. A orquestra", "url": "" },
-          { "name": "2. Minuetto em sol maior", "url": "" },
-          { "name": "3. Minuetto em sol maior (Playback)", "url": "" },
+          { "nome": "1. A orquestra", "url": "", "slug": "a-orquestra" },
           {
-            "name": "4. Tema Primavera das quatro estações - Violino I",
-            "url": ""
+            "nome": "2. Minuetto em sol maior",
+            "url": "",
+            "slug": "minuetto-em-sol-maior"
           },
           {
-            "name": "5. Tema Primavera das quatro estações - Violino II",
-            "url": ""
+            "nome": "3. Minuetto em sol maior (Playback)",
+            "url": "",
+            "slug": "minuetto-em-sol-maior-playback"
           },
           {
-            "name": "6. Tema Primavera das quatro estações - Viola",
-            "url": ""
+            "nome": "4. Tema Primavera das quatro estações - Violino I",
+            "url": "",
+            "slug": "tema-primavera-das-quatro-estacoes-violino-i"
           },
           {
-            "name": "7. Tema Primavera das quatro estações - Violinos I e II e Viola",
-            "url": ""
+            "nome": "5. Tema Primavera das quatro estações - Violino II",
+            "url": "",
+            "slug": "tema-primavera-das-quatro-estacoes-violino-ii"
           },
           {
-            "name": "8. Tema Primavera das quatro estações - Violoncelo",
-            "url": ""
+            "nome": "6. Tema Primavera das quatro estações - Viola",
+            "url": "",
+            "slug": "tema-primavera-das-quatro-estacoes-viola"
           },
           {
-            "name": "9. Tema Primavera das quatro estações - Violinos, Viola e Violoncelo",
-            "url": ""
+            "nome": "7. Tema Primavera das quatro estações - Violinos I e II e Viola",
+            "url": "",
+            "slug": "tema-primavera-das-quatro-estacoes-violinos-i-e-ii-e-viola"
           },
           {
-            "name": "10. Tema Primavera das quatro estações - Contrabaixo",
-            "url": ""
+            "nome": "8. Tema Primavera das quatro estações - Violoncelo",
+            "url": "",
+            "slug": "tema-primavera-das-quatro-estacoes-violoncelo"
           },
           {
-            "name": "11. Tema Primavera das quatro estações - Violinos, Viola e Violoncelo e Contrabaixo",
-            "url": ""
+            "nome": "9. Tema Primavera das quatro estações - Violinos, Viola e Violoncelo",
+            "url": "",
+            "slug": "tema-primavera-das-quatro-estacoes-violinos-viola-e-violoncelo"
           },
-          { "name": "12. Jesus, alegria dos homens", "url": "" },
-          { "name": "13. Jesus, alegria dos homens (Playback)", "url": "" },
-          { "name": "14. Tímpanos", "url": "" },
-          { "name": "15. Marcha dos soldadinhos de chumbo", "url": "" },
-          { "name": "16. Nuvens", "url": "" },
-          { "name": "17. Nuvens (Playback)", "url": "" },
-          { "name": "18. Tema o Guarani", "url": "" },
-          { "name": "19. Quem sabe", "url": "" },
-          { "name": "20. O mundo da música (Pout Pourri)", "url": "" }
+          {
+            "nome": "10. Tema Primavera das quatro estações - Contrabaixo",
+            "url": "",
+            "slug": "tema-primavera-das-quatro-estacoes-contrabaixo"
+          },
+          {
+            "nome": "11. Tema Primavera das quatro estações - Violinos, Viola e Violoncelo e Contrabaixo",
+            "url": "",
+            "slug": "tema-primavera-das-quatro-estacoes-violinos-viola-e-violoncelo-e-contrabaixo"
+          },
+          {
+            "nome": "12. Jesus, alegria dos homens",
+            "url": "",
+            "slug": "jesus-alegria-dos-homens"
+          },
+          {
+            "nome": "13. Jesus, alegria dos homens (Playback)",
+            "url": "",
+            "slug": "jesus-alegria-dos-homens-playback"
+          },
+          { "nome": "14. Tímpanos", "url": "", "slug": "timpanos" },
+          {
+            "nome": "15. Marcha dos soldadinhos de chumbo",
+            "url": "",
+            "slug": "marcha-dos-soldadinhos-de-chumbo"
+          },
+          { "nome": "16. Nuvens", "url": "", "slug": "nuvens" },
+          {
+            "nome": "17. Nuvens (Playback)",
+            "url": "",
+            "slug": "nuvens-playback"
+          },
+          { "nome": "18. Tema o Guarani", "url": "", "slug": "tema-o-guarani" },
+          { "nome": "19. Quem sabe", "url": "", "slug": "quem-sabe" },
+          {
+            "nome": "20. O mundo da música (Pout Pourri)",
+            "url": "",
+            "slug": "o-mundo-da-musica-pout-pourri"
+          }
         ]
       }
     ]

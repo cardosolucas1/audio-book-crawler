@@ -1,4 +1,6 @@
 import json
+from slugify import slugify
+import re
 
 
 def capture_audios(path):
@@ -6,7 +8,13 @@ def capture_audios(path):
     with open(path) as file:
         for line in file:
             formattedLine = line.strip("\n")
-            audios_names.append({"name": formattedLine, "url": ""})
+            audios_names.append(
+                {
+                    "nome": formattedLine,
+                    "url": "",
+                    "slug": slugify(re.sub(r'\d+', '',formattedLine))
+                }
+            )
     return audios_names
 
 
